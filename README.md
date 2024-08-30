@@ -35,7 +35,7 @@ The project includes a dashboard made by PowerBi that visualizes:
 - hires by Seniority level
 - Hires by Country focusing on specific countries
 
-![Dashboard](data-README.md\DashboardScreenshot.png)
+![Dashboard](data-README.md/DashboardScreenshot.png)
 
 ## Getting Started
 
